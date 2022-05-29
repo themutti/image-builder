@@ -5,3 +5,6 @@
 # vs code settings directory
 /.vscode/
 /.vscode/**
+
+# images
+*.bmp
